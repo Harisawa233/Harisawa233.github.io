@@ -20,7 +20,7 @@ webtitle: 'Harisawa Clubhouse'
 bio: 'ᴇᴍᴘᴀᴛʜʏ ᴏғ ᴄᴏᴍᴘʀᴇʜᴇɴsɪᴏɴ'
 about: true
 aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/1021icon.png' # your portraits image file path
 
 # SNS
 SNS: true
